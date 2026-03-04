@@ -5,3 +5,7 @@
 # 视频地址
 
 【【急救常识科普】一分钟，快速学习急救课程】 https://www.bilibili.com/video/BV1Mi4y1x7aK/?share_source=copy_web&vd_source=b12fa710da5d72f21a6554549ec5d0e9
+
+# 可能会更新的日志
+
+每次学到了更多的可以急救的知识就会会放进去并且在这里写更新的日志
